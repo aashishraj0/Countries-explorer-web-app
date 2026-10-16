@@ -1,0 +1,22 @@
+/* write your styles here */
+table tr:hover{  
+    background: #a7f7aa8d;
+}
+#country::after .af{
+    content: "\25bc";
+}
+th{
+    background-color: greenyellow;
+    padding: 40px;
+    border: 1px solid black;
+}
+td{
+    padding:20px;
+    border: 1px solid black;
+}
+.df{
+}
+img{
+    height: 70px;
+    width: 100px;
+}
